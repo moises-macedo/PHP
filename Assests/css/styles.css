@@ -36,7 +36,7 @@ body {
 .main {
     grid-area: main;
     height: calc(100vh - 180px);
-    background-color: antiquewhite;
+    background-color: rgb(198, 198, 198);
     padding: 20px;
 }
 .footer{
