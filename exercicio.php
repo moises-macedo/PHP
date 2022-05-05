@@ -25,7 +25,7 @@
     <main class="main">
         <div class="conteudo">
             <?php
-            include("teste/teste.php")
+            include("basico/ola.php")
             ?>
 
         </div>
